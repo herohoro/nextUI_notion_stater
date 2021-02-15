@@ -166,7 +166,7 @@ export const NotionPage: React.FC<types.PageProps> = ({
   return (
     <Twitter.Provider
       value={{
-        tweetAstMap: recordMap.tweetAstMap || {},
+        tweetAstMap: (recordMap as any).tweetAstMap || {},
         swrOptions: {
           fetcher: (id) =>
             fetch(`/api/get-tweet-ast/${id}`).then((r) => r.json())
