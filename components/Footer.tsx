@@ -24,6 +24,10 @@ export const Footer: React.FC<{
     setHasMounted(true)
   }, [])
 
+  if (!hasMounted) {
+    return null
+  }
+
   return (
     <footer className={styles.footer}>
       <div className={styles.copyright}>Copyright 2021 {config.author}</div>
