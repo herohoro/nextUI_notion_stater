@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Study_space',
-  domain: 'study-space.vercel.app',
+  domain: 'study-space-lime.vercel.app',
   author: 'study_space',
 
   // open graph metadata (optional)
