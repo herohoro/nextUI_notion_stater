@@ -1,7 +1,8 @@
 {
-  "name": "Transitive Bullshit",
-  "short_name": "Transitive BS",
+  "name": "study_space",
+  "short_name": "SDS",
   "icons": [
+  
     {
       "src": "/favicon-16x16.png",
       "type": "image/png",
@@ -13,23 +14,23 @@
       "sizes": "32x32"
     },
     {
-      "src": "/favicon-96x96.png",
+      "src": "/favicon-97x96.png",
       "type": "image/png",
-      "sizes": "96x96"
+      "sizes": "97x96"
     },
     {
       "src": "/apple-touch-icon.png",
       "type": "image/png",
-      "sizes": "180x180"
+      "sizes": "194x192"
     },
     {
-      "src": "/android-chrome-192x192.png",
-      "sizes": "192x192",
+      "src": "/android-chrome-194x192.png",
+      "sizes": "194x192",
       "type": "image/png"
     },
     {
-      "src": "/android-chrome-512x512.png",
-      "sizes": "512x512",
+      "src": "/android-chrome-518x512.png",
+      "sizes": "518x512",
       "type": "image/png"
     }
   ],
