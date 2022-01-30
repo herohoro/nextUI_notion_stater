@@ -13,3 +13,13 @@
 # Using
 Next UI で装飾をしたい箇所に[記述](https://nextui.org/docs/guide/getting-started#using-nextui-components)する。  
 ※　例では[ボタン](https://nextui.org/docs/components/button)ですが他の装飾に関してはNEXT UI公式ドキュメント参照
+  
+
+
+
+# About
+- [Next UI](https://nextui.org/)
+- [Next UI 公式ドキュメント](https://nextui.org/docs/guide/getting-started)
+- [Next.js Notion Starter kitで作られたサイト](https://transitivebullsh.it/)
+- [Next.js Notion Sterter kitのリポジトリ](https://github.com/transitive-bullshit/nextjs-notion-starter-kit)
+- [react-notion-xのリポジトリ](https://github.com/NotionX/react-notion-x)
