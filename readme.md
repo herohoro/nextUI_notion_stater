@@ -12,4 +12,4 @@
   
 # Using
 Next UI で装飾をしたい箇所に[記述](https://nextui.org/docs/guide/getting-started#using-nextui-components)する。  
-※　例では(ボタン)[https://nextui.org/docs/components/button]ですが他の装飾に関してはNEXT UI公式ドキュメント参照
+※　例では[ボタン](https://nextui.org/docs/components/button)ですが他の装飾に関してはNEXT UI公式ドキュメント参照
